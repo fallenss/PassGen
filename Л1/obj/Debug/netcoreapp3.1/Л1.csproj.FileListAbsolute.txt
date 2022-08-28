@@ -1,0 +1,13 @@
+D:\Archive\Illumination\3 круг\ЗКИ\Л1\Л1\bin\Debug\netcoreapp3.1\Л1.exe
+D:\Archive\Illumination\3 круг\ЗКИ\Л1\Л1\bin\Debug\netcoreapp3.1\Л1.deps.json
+D:\Archive\Illumination\3 круг\ЗКИ\Л1\Л1\bin\Debug\netcoreapp3.1\Л1.runtimeconfig.json
+D:\Archive\Illumination\3 круг\ЗКИ\Л1\Л1\bin\Debug\netcoreapp3.1\Л1.runtimeconfig.dev.json
+D:\Archive\Illumination\3 круг\ЗКИ\Л1\Л1\bin\Debug\netcoreapp3.1\Л1.dll
+D:\Archive\Illumination\3 круг\ЗКИ\Л1\Л1\bin\Debug\netcoreapp3.1\Л1.pdb
+D:\Archive\Illumination\3 круг\ЗКИ\Л1\Л1\obj\Debug\netcoreapp3.1\Л1.csprojAssemblyReference.cache
+D:\Archive\Illumination\3 круг\ЗКИ\Л1\Л1\obj\Debug\netcoreapp3.1\Л1.AssemblyInfoInputs.cache
+D:\Archive\Illumination\3 круг\ЗКИ\Л1\Л1\obj\Debug\netcoreapp3.1\Л1.AssemblyInfo.cs
+D:\Archive\Illumination\3 круг\ЗКИ\Л1\Л1\obj\Debug\netcoreapp3.1\Л1.csproj.CoreCompileInputs.cache
+D:\Archive\Illumination\3 круг\ЗКИ\Л1\Л1\obj\Debug\netcoreapp3.1\Л1.dll
+D:\Archive\Illumination\3 круг\ЗКИ\Л1\Л1\obj\Debug\netcoreapp3.1\Л1.pdb
+D:\Archive\Illumination\3 круг\ЗКИ\Л1\Л1\obj\Debug\netcoreapp3.1\Л1.genruntimeconfig.cache
